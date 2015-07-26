@@ -16,7 +16,7 @@ deploy:
   password:
     secure: jnerL+cgGbIW0NsPsacpNnzHV4JGMapdxPnjeM7x1B+we/YeGHJgj0sF0YOIoA8cGdjZha+1PNbSB748ba1lBy9iHmiLfZwdr1jSp5oIdacnaP17yM2zqLiOebbQmNKAASwLsvZUtNeuCXLp0cx7stbbysUeC0Syce20yD+NSArEMZeDdVSYL+wLaLOiJsFGs/Xn9BbPW9VzqLMU2UyWEQsfjkTLTUwewTsuYBtQILQM5EmdxfPXxvXsmtHZnBjc6K0gKPdEbKLfGV59ybdsg1Fl1Z8eLrZ36jDtan4C60ZmdnG0MhoeiUhK2n+JdO5ORXKG1EvRhurxZO6CZgEyFR8RWztmWDmh/PmU6hNZ8TLynzbmt/FZaAN65GyEDxll/21gTb8yjYeJUxapc9cLDDXKZlXkaJXA33si2naQMnwiZZREhllznNjM/qhJQNM5wZwOX14D/r6RfmKICrUAKIAiuXQr0dSYEVPznh4HpBPv2e0zta/MU49bllblP+l6SmXQiVWHF41c1Z097y3Xd2wDSnMW/uH90OCwMIDwlw8n0i0M0sB2VyMAgQkmFy1/ooUXfEVb3lFubJAO3gPpSksTk1fiLQfagsHENmyC1ZKUCKVpiTaMXVJbXxV2n2HZrGzMIiFrl9Ntgua/2953c+Gx8fKRSNuvnIvuAsj75AI=
   organization: malcolm_lea-org
-  space: staging
+  space: development
   on:
     branch: master
-    python: '3.4'
+    python: '2.7'
